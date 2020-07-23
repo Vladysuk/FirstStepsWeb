@@ -37,6 +37,16 @@ section h2{
 section div{
   padding: 36px 10px 10px 10px;
 }
+#h1 {
+  background-color: #d59898;  
+}
+#h2 {
+  background-color: #c14543; 
+  color: white;
+}
+#h3 {
+  background-color: #e5d198;
+}
 /* Simple Responsive Framework. */
 .row {
   width: 100%;
