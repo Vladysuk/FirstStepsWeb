@@ -37,14 +37,14 @@ section h2{
 section div{
   padding: 36px 10px 10px 10px;
 }
-#_h1 {
+#dota1 {
   background-color: #d59898;  
 }
-#_h2 {
+#dota2 {
   background-color: #c14543; 
   color: white;
 }
-#_h3 {
+#dota3 {
   background-color: #e5d198;
 }
 /* Simple Responsive Framework. */
